@@ -1,0 +1,2 @@
+# vote
+Rust contract
